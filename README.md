@@ -4,6 +4,12 @@ This project is an interactive Power BI dashboard built using the Adventure Work
 
 The dashboard analyzes **$29.36M in sales, 28K orders, $9M in profit, and 18.48K customers**, with an overall **profit margin of 30.65%**.
 
+## Dashboard Preview
+
+[📄 View the AdventureWorks Dashboard (PDF)](./AdventureWorks2020-Dashboard.pdf)
+
+Download the PDF to explore all three dashboard pages without installing Power BI Desktop.
+
 ## Dashboard Overview
 
 The report is organized into three pages:
