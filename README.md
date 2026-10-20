@@ -10,6 +10,17 @@ The dashboard analyzes **$29.36M in sales, 28K orders, $9M in profit, and 18.48K
 
 Download the PDF to explore all three dashboard pages without installing Power BI Desktop.
 
+Or just open a specific screenshot:
+
+### Sales Overview
+![Sales Overview](./Sales%20Overview.png)
+
+### Customer Analysis
+![Customer Analysis](./Customer%20Analysis.png)
+
+### Product Analysis
+![Product Analysis](./Product%20Analysis.png)
+
 ## Dashboard Overview
 
 The report is organized into three pages:
