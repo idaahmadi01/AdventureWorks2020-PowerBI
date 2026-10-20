@@ -6,11 +6,7 @@ The dashboard analyzes **$29.36M in sales, 28K orders, $9M in profit, and 18.48K
 
 ## Dashboard Preview
 
-[📄 View the AdventureWorks Dashboard (PDF)](./AdventureWorks2020-Dashboard.pdf)
-
-Download the PDF to explore all three dashboard pages without installing Power BI Desktop.
-
-Or just open a specific screenshot:
+Here are the screenshots:
 
 ### Sales Overview
 ![Sales Overview](./Sales%20Overview.png)
@@ -20,6 +16,10 @@ Or just open a specific screenshot:
 
 ### Product Analysis
 ![Product Analysis](./Product%20Analysis.png)
+
+Or you can download the PDF to explore all three dashboard pages without installing Power BI Desktop.
+
+[📄 View the AdventureWorks Dashboard (PDF)](./AdventureWorks2020-Dashboard.pdf)
 
 ## Dashboard Overview
 
